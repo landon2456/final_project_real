@@ -23,7 +23,10 @@ I then wanted to find a way to group together the depressants and stimulants bec
 * depressants: heroin, pain reliever, oxycontin, tranquilizer, sedative
 
 I used formulas that just added the sum of values for each specific drug, for example:
-``` ='drug-use-by-age'!G9+'drug-use-by-age'!I9+'drug-use-by-age'!W9+'drug-use-by-age'!Y9 ```
+
+``` 
+='drug-use-by-age'!G9+'drug-use-by-age'!I9+'drug-use-by-age'!W9+'drug-use-by-age'!Y9 
+```
 
 I made a table out of this on datawrapper, which can be viewed [here](https://www.datawrapper.de/_/jXH6S/), or below. It is important to note that these sums may not be an accurate reflection of the true percentage of the population that does each group of drugs and are rather approximate values used for comparison reasons. 
 
@@ -41,9 +44,9 @@ From these results, my hunch is absolutely not true. Younger people tend to use 
 <iframe title="Use Vs. Frequency of Use of Drugs By Older And Younger Age Groups" aria-label="Split Bars" id="datawrapper-chart-ZqXhP" src="https://datawrapper.dwcdn.net/ZqXhP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1003"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-As can be viewed in the chart, the older ages have more wide discrepancies between drug use and drug frequency. I highlighted several drugs where this was particularly prevalent, including some that had zero values under use and larger numbers under frequency. If it is to be assumed that these discrepancies aren't due to statistical errors and are instead representative of statistically insignificant low percentages of drug use for the older age groups, then the conclusion could once again be drawn that in older populations, although very few people use drugs, the ones that do use them use them very frequently. I believe this may be true because the pattern of higher discrepancy in the older age groups remains true even in use values that aren't 0, it is a consistent pattern that persists throughout all the different drugs. 
+As can be viewed in the chart, the older ages have more wide discrepancies between drug use and drug frequency. I highlighted several drugs where this was particularly prevalent, including some that had zero values under use and larger numbers under frequency. If it is to be assumed that these discrepancies aren't due to statistical errors and are instead representative of statistically insignificant low percentages of drug use for the older age groups, then the conclusion could once again be drawn that in older populations, although very few people use drugs, the ones that do use them use them very frequently. I believe this may be true because the pattern of higher discrepancy in the older age groups remains true even in use values that aren't 0, it is a consistent pattern that persists throughout all the different drugs. This could be because younger people have a more casual culture around drug use, while older people need to make more of an effort to get drugs. The older people that do get drugs must be more serious and commited about doing them, whether that be because of addiction/necessity, medical needs, or lifestyle choices. 
 
 ### Conclusion:
 
-Inhalants are most popular among young to mid teens, hallucinogens are popular in the late teens and early twenties, and heroin is most popular in the early to mid twenties. Across virtually all age groups, alcohol is typically twice as popular or more as marijuana use, with older age groups having alcohol be much more popular. A larger segment of the population of younger people use both depressants and stimulants, but older people use them more frequently. This is true for many other drugs as well: in general, while a larger segment of the young population uses drugs, they typically use them with less frequency than older people. 
+Inhalants are most popular among young to mid teens, hallucinogens are popular in the late teens and early twenties, and heroin is most popular in the early to mid twenties. Across virtually all age groups, alcohol is typically twice as popular or more as marijuana use, with older age groups having alcohol be much more popular. In general, while a larger segment of the young population uses drugs, they typically use them with less frequency than older people. 
 
