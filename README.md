@@ -1,6 +1,8 @@
 # Analysis of Drug Use By Age
 
-I chose the dataset "Drug Use by Age" from FiveThirtyEight's github, which can be found [here.](https://github.com/fivethirtyeight/data/tree/master/drug-use-by-age)
+#### By Landon Iannamico
+
+I chose the dataset "Drug Use by Age" from FiveThirtyEight's github, which can be found [here.](https://github.com/fivethirtyeight/data/blob/master/drug-use-by-age/drug-use-by-age.csv)
 
 This data had information about the percentage of the respondents who reported using certain drugs within the past 12 months, and the frequency in which they used those drugs over the past 12 months. The data covers 13 different drugs across 17 age groups. The data came in one csv file that I put onto a google sheet. I then did the following to analyze the data:
 * Sorted heroin use z-a to find the top groups were: 22-23 (1.1%), 20 (0.9%), and 24-25 (0.7%)
